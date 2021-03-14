@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+- Purpose of project is to 
 
 ## Analysis and Challenges
 
