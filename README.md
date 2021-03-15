@@ -8,9 +8,12 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-* The Analysis of The Launch Date was performed by creating a pivot table with *Outcomes* in Columns, *Date Created Conversion* as Rows, and *Parent Category & Years* as the Filters. We need to filter out the data to show only theater as the category, and with the previous settings selected for the pivot table, 
+* The Analysis of The Launch Date was performed by creating a pivot table with *Outcomes* in Columns, *Date Created Conversion* as Rows, and *Parent Category & Years* as the Filters. The Table filtered out the data to show only Theater as the category, and the following graph can be generated from the data. 
 
 ![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
+
+* As a conclusion, the months of May, June, and July are the best months as theater launch dates, with May being the month with the most successful Launch Dates. Thus, from this analysis, it is recommended that Louise should launch the play during the three summer months. 
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
