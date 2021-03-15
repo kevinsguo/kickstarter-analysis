@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-* Purpose of the analysis is to find the best possible combination of Theater Launch Date and Play's fundraising goal for Louise's play *Fever*. By performing the analysis from the data provided, it is apparent from the graphs that the best combination of Theater Launch Date and Fundraising Goal would be between the months of May and July with a fundraising goal of less than $5000. 
+* Purpose of the analysis is to find the best possible combination of Theater Launch Date and Play's fundraising goal for Louise's play *Fever*. By performing the analysis from the data provided, it is apparent from the graphs that the best combination of Theater Launch Date and Fundraising Goal would be between the months of May and July with a fundraising goal of less than 5000. 
 
 ## Analysis and Challenges
 
@@ -19,7 +19,7 @@
 
 ![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 
-
+* From this graph, it can be concluded that a fundraising Goal of less than 5000 would have the highest Successful Percentage. Though a Goal of 35000 to 45000 also shows a similar percentage of success and fails as less than 5000, but the Total Projects recorded between 35000 to 45000 fundraising goal is only 9, compared to 720 Total Projects recorded for less than 5000. With such a small sample size, the data should not be used as a reliable source of comparison. 
 
 ### Challenges and Difficulties Encountered
 
