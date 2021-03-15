@@ -23,6 +23,9 @@
 
 ### Challenges and Difficulties Encountered
 
+* There wasn't any significant challenges or difficulties encountered during this analysis project, as the data set was straight forward and was able to lead to a clear conclusion. I believe a conclusion would be more difficult to establish if the data set had a more random outcomes. For instance, the Categories *Publishing* and *Technology* suffers from a more random cluster of data that is difficult to conclude which month would be the best for a Launch Date. 
+* Another challenge would be the possibilies of a better outcome with a higher fundraising goal. Our conclusion of *less than 5000* was established from a data set that has a significant more *Total Project* number than the rest of the data. It is completely possible that a higher fundraising goal could also yield to a equally efficient or better successful outcome. However, it is impossible for tell with the given data due to the lack of Projects with high fundraising goals.  
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
