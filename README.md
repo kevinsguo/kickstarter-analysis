@@ -29,18 +29,18 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-* May to July are the best months as Launch Dates.
-* Winter times are some of the worst months to launch the play.
+** May to July are the best months as Launch Dates.
+** Winter times are some of the worst months to launch the play.
 
 - What can you conclude about the Outcomes based on Goals?
-* Data is very reliable with fundraising goals less than 15000 for its number of Total Projects. Data for higher Fundraising Goals becomes less reliable as the total number of projects decreases significantly. 
-* Fundraising goal of less than 5000 shows confident data with a successful percentage of +73%.
+** Data is very reliable with fundraising goals less than 15000 for its number of Total Projects. Data for higher Fundraising Goals becomes less reliable as the total number of projects decreases significantly. 
+** Fundraising goal of less than 5000 shows confident data with a successful percentage of +73%.
 
 - What are some limitations of this dataset?
-* The type of Plays is not presented in this dataset. It is very possible that one type of Play would be significantly more successful than another. 
-* As previously mentioned, it is highly possible that a higher fundraising goal would be as equally or more successful as less than 5000 fundraising goal due to the lack of data. As the dataset becomes smaller, outliers would heavily skew the conclusion. 
-* *Country* has not been filtered during this analysis, therefore the conclusion is based on a data gathered across multiple countries. Unless Louise's play will be shown at multiple countries listed in this dataset, the conclusion would become weaker if Louise only launches the play at fewer countries. 
+** The type of Plays is not presented in this dataset. It is very possible that one type of Play would be significantly more successful than another. 
+** As previously mentioned, it is highly possible that a higher fundraising goal would be as equally or more successful as less than 5000 fundraising goal due to the lack of data. As the dataset becomes smaller, outliers would heavily skew the conclusion. 
+** *Country* has not been filtered during this analysis, therefore the conclusion is based on a data gathered across multiple countries. Unless Louise's play will be shown at multiple countries listed in this dataset, the conclusion would become weaker if Louise only launches the play at fewer countries. 
 
 - What are some other possible tables and/or graphs that we could create?
-* We could create graphs based on individual countries.
-* A Box and Whisker Chart could be presented to show outliers in fundraising goals. 
+** We could create graphs based on individual countries.
+** A Box and Whisker Chart could be presented to show outliers in fundraising goals. 
