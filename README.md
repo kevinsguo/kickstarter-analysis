@@ -15,6 +15,9 @@
 * As a conclusion, the months of May, June, and July are the best months as theater launch dates, with May being the month with the most successful Launch Dates. Thus, from this analysis, it is recommended that Louise should launch the play during the three summer months. 
 
 ### Analysis of Outcomes Based on Goals
+* The Analysis of Outcomes was performed by gathering data from three criterias, *Goal*, *Outcome* (Successful,Failed,or Canceled), and *Play* as the category. The following graph was plotted from the findings. 
+
+![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 
