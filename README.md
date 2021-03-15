@@ -10,7 +10,7 @@
 ### Analysis of Outcomes Based on Launch Date
 * The Analysis of The Launch Date was performed by creating a pivot table with *Outcomes* in Columns, *Date Created Conversion* as Rows, and *Parent Category & Years* as the Filters. We need to filter out the data to show only theater as the category, and with the previous settings selected for the pivot table, 
 
-![image_name](path/to/image_name.png)
+![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
